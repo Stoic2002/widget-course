@@ -42,6 +42,33 @@ class _HomePageState extends State<HomePage> {
         description: 'Description 7'),
     ItemModel(
         id: '8', name: 'Icon', route: '/icon', description: 'Description 8'),
+    ItemModel(
+        id: '9', name: 'align', route: '/align', description: 'Description 9'),
+    ItemModel(
+        id: '10',
+        name: 'center',
+        route: '/center',
+        description: 'Description 10'),
+    ItemModel(
+        id: '11',
+        name: 'expanded',
+        route: '/expanded',
+        description: 'Description 11'),
+    ItemModel(
+        id: '12',
+        name: 'padding',
+        route: '/padding',
+        description: 'Description 12'),
+    ItemModel(
+        id: '13',
+        name: 'sizedbox',
+        route: '/sizedbox',
+        description: 'Description 13'),
+    ItemModel(
+        id: '14',
+        name: 'stack',
+        route: '/stack',
+        description: 'Description 14'),
   ];
 
   @override
